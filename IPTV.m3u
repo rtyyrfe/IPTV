@@ -55,8 +55,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
 http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1 ,凤凰资讯
 http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
-#EXTINF:-1 ,凤凰香港
-http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 #EXTINF:-1 ,中国教育1台
 http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
 #EXTINF:-1 ,中国教育2台
