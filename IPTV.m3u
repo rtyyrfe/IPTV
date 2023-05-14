@@ -400,11 +400,13 @@ http://159.75.85.63:6798
 #EXTINF:-1 ,苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 ,欢笑剧场4K
-http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/sxg.php?id=hxjc-4k_8000
 #EXTINF:-1 ,爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 ,4K影视
 http://nas.jdshipin.com:8801/4kys.php
+#EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://epg.112114.xyz/logo/4K电影4K.png" group-title="其他",4K超高清电影 4K
+https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
 #EXTINF:-1 ,CHC家庭影院
 http://150.138.8.143/00/SNM/CHANNEL00002028/index.m3u8
 #EXTINF:-1 ,CHC高清电影
