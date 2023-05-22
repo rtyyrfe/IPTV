@@ -36,7 +36,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
 #EXTINF:-1 ,CCTV15
 http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8
 #EXTINF:-1 ,CCTV16
-https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+http://cntv.sbs/live?id=cctv16
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 4K
 http://cntv.sbs/live?id=cctv164k
 #EXTINF:-1 ,CCTV17
