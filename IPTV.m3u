@@ -58,7 +58,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
 #EXTINF:-1 ,凤凰中文
 http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1 ,凤凰资讯
-http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
+http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1 ,中国教育1台
 http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
 #EXTINF:-1 ,中国教育2台
@@ -460,4 +460,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000612/index.m3u8
 #EXTINF:-1 ,凤凰中文
 http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1 ,凤凰资讯
-http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
+https://cntv.sbs/fs?id=fhhk
