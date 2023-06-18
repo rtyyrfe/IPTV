@@ -455,11 +455,3 @@ http://150.138.8.143/00/SNM/CHANNEL00000610/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000611/index.m3u8
 #EXTINF:-1 ,美人
 http://150.138.8.143/00/SNM/CHANNEL00000612/index.m3u8
-#EXTINF:-1 ,凤凰中文
-http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
-#EXTINF:-1 ,凤凰资讯
-http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
-#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/莲花卫视.png" group-title="港澳台",莲花卫视
-https://cntv.sbs/lhws
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
-https://cntv.sbs/fs?id=fhhk
