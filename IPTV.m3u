@@ -65,8 +65,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 #EXTINF:-1 ,梨园
 http://150.138.8.143/00/SNM/CHANNEL00000656/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://150.138.8.143/00/SNM/CHANNEL00000364/index.m3u8
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+https://live.goodiptv.club/api/sxg.php?id=sdwsH265_4000
 #EXTINF:-1 ,山东齐鲁[标清]
 http://150.138.8.143/00/SNM/CHANNEL00000052/index.m3u8
 #EXTINF:-1 ,山东居家购物
